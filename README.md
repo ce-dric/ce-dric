@@ -4,11 +4,11 @@
 
 ![ms](enhancement.gif) <br>
 
-</div>
- - (M.S thesis) Enhancement of Low-illuminance Image Using the illuminant Map Estimation in the Dichromatic Reflection Model
+(M.S thesis) Enhancement of Low-illuminance Image Using the illuminant Map Estimation in the Dichromatic Reflection Model
  
 [CamToy Database](http://web4.cs.ucl.ac.uk/staff/g.brostow/MotionSegRecData/index_draft01.html)
 
+</div>
 <!--
 **Odin-son/Odin-son** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Interest
