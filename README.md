@@ -5,7 +5,7 @@
 ![ms](enhancement.gif) <br>
 
 </div>
- - Enhancement of Low-illuminance Image Using the illuminant Map Estimation in the Dichromatic Reflection Model
+ - (M.S thesis) Enhancement of Low-illuminance Image Using the illuminant Map Estimation in the Dichromatic Reflection Model
  
 [CamToy Database](http://web4.cs.ucl.ac.uk/staff/g.brostow/MotionSegRecData/index_draft01.html)
 
