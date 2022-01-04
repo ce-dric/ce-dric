@@ -1,3 +1,7 @@
+"""
+Thanks to the Third Party Libs
+    https://github.com/zzsza/github-action-with-python
+"""
 import requests
 from bs4 import BeautifulSoup
 
