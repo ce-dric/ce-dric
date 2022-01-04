@@ -1,4 +1,4 @@
-name: yes24_crawler
+name: aladin_crawler
 
 on:
   schedule:
