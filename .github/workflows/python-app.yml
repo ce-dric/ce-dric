@@ -2,7 +2,7 @@ name: aladin_crawler
 
 on:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '25 13 * * *'
 
 jobs:
   build:
