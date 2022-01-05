@@ -35,7 +35,7 @@ def extract_book_data(soup):
         url = new_book.select(".bo3")[0].attrs['href']
         price = new_book.select(".ss_p2")[0].text
         
-        content = f"<a href={url}>" + book_name + "</a>" + ", " + price + "<br/>\n"
+        content = f"[{book_name}]({url})" + ", " + price + "<br/>\n"
         upload_contents += content
 
     return upload_contents
