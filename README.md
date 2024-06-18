@@ -7,3 +7,12 @@
 ###### dataset from [seq01TP](http://web4.cs.ucl.ac.uk/staff/g.brostow/MotionSegRecData/index_draft01.html)
 
 </div>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/ce-dric?pet-id=590788849510830742"
+    width="600"
+    height="120"
+  />
+</a>
+  
