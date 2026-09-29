@@ -14,12 +14,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch merged PRs (excluding my own repos)
+      - name: Fetch merged PRs (excluding my own repos and a few noisy ones)
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           gh api -X GET search/issues \
-            -f q="is:pr is:merged author:ce-dric -user:ce-dric" \
+            -f q="is:pr is:merged author:ce-dric -user:ce-dric -repo:microsoft/winget-pkgs -repo:Hwa-Jong/pytorch2.x-compile-test -repo:IntekPlus-AI/Pytorch-UNet -repo:CONTEC-SIP/albumentations" \
             -f sort=updated -f order=desc -f per_page=10 \
             --jq '.items[] | "- 🎉 [\(.title)](\(.html_url)) — `\(.repository_url | ltrimstr("https://api.github.com/repos/"))`"' \
             > /tmp/merged_prs.txt
