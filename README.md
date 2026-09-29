@@ -1,3 +1,10 @@
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=ce-dric&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/ce-dric"
+    width="300"
+  />
+</a>
+
 ### Merged Pull Requests
 
 <!--START_SECTION:merged-prs-->
@@ -17,10 +24,3 @@
 ###### dataset from [seq01TP](http://web4.cs.ucl.ac.uk/staff/g.brostow/MotionSegRecData/index_draft01.html)
 
 </div>
-
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=ce-dric&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/ce-dric"
-    width="300"
-  />
-</a>
