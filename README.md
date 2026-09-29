@@ -23,10 +23,10 @@
 - 🎉 [Add configurable Discord status reactions](https://github.com/Crokily/pi-discord-gateway/pull/20) — `Crokily/pi-discord-gateway`
 - 🎉 [fix: resolve UnicodeEncodeError on Windows with non-UTF-8 consoles](https://github.com/Q00/ouroboros/pull/1819) — `Q00/ouroboros`
 - 🎉 [feat: N카드 할인 예매 지원 추가 (ktx-booking)](https://github.com/NomaDamas/k-skill/pull/231) — `NomaDamas/k-skill`
-- 🎉 [Add N-card discounted ticket lookup PoC](https://github.com/ce-dric/korail2/pull/1) — `ce-dric/korail2`
-- 🎉 [Revert HF Space files from GitHub main](https://github.com/ce-dric/personal-branding-poster/pull/2) — `ce-dric/personal-branding-poster`
-- 🎉 [Fix cross-platform font paths for HF Space compatibility](https://github.com/ce-dric/personal-branding-poster/pull/1) — `ce-dric/personal-branding-poster`
 - 🎉 [New package: cedric.fa2tv version 1.0.0.0](https://github.com/microsoft/winget-pkgs/pull/178271) — `microsoft/winget-pkgs`
-- 🎉 [Gui](https://github.com/ce-dric/FA2TV/pull/3) — `ce-dric/FA2TV`
-- 🎉 [(tested) convert anything in the folder](https://github.com/ce-dric/FA2TV/pull/2) — `ce-dric/FA2TV`
+- 🎉 [New package: cedric.view2er version 1.0.0](https://github.com/microsoft/winget-pkgs/pull/171539) — `microsoft/winget-pkgs`
+- 🎉 [Docker 환경 구축](https://github.com/Hwa-Jong/pytorch2.x-compile-test/pull/1) — `Hwa-Jong/pytorch2.x-compile-test`
+- 🎉 [Dev 202205](https://github.com/IntekPlus-AI/Pytorch-UNet/pull/1) — `IntekPlus-AI/Pytorch-UNet`
+- 🎉 [Update label color immediately after 'edit label'](https://github.com/wkentaro/labelme/pull/864) — `wkentaro/labelme`
+- 🎉 [mistyped 'size_ratio'](https://github.com/CONTEC-SIP/albumentations/pull/3) — `CONTEC-SIP/albumentations`
 <!--END_SECTION:merged-prs-->
