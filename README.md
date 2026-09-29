@@ -23,10 +23,5 @@
 - 🎉 [Add configurable Discord status reactions](https://github.com/Crokily/pi-discord-gateway/pull/20) — `Crokily/pi-discord-gateway`
 - 🎉 [fix: resolve UnicodeEncodeError on Windows with non-UTF-8 consoles](https://github.com/Q00/ouroboros/pull/1819) — `Q00/ouroboros`
 - 🎉 [feat: N카드 할인 예매 지원 추가 (ktx-booking)](https://github.com/NomaDamas/k-skill/pull/231) — `NomaDamas/k-skill`
-- 🎉 [New package: cedric.fa2tv version 1.0.0.0](https://github.com/microsoft/winget-pkgs/pull/178271) — `microsoft/winget-pkgs`
-- 🎉 [New package: cedric.view2er version 1.0.0](https://github.com/microsoft/winget-pkgs/pull/171539) — `microsoft/winget-pkgs`
-- 🎉 [Docker 환경 구축](https://github.com/Hwa-Jong/pytorch2.x-compile-test/pull/1) — `Hwa-Jong/pytorch2.x-compile-test`
-- 🎉 [Dev 202205](https://github.com/IntekPlus-AI/Pytorch-UNet/pull/1) — `IntekPlus-AI/Pytorch-UNet`
 - 🎉 [Update label color immediately after 'edit label'](https://github.com/wkentaro/labelme/pull/864) — `wkentaro/labelme`
-- 🎉 [mistyped 'size_ratio'](https://github.com/CONTEC-SIP/albumentations/pull/3) — `CONTEC-SIP/albumentations`
 <!--END_SECTION:merged-prs-->
