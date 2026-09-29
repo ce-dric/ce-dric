@@ -18,10 +18,9 @@
 
 </div>
 
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=ce-dric&utm_content=farm">
   <img
-    src="https://render.gitanimals.org/lines/ce-dric?pet-id=590788849510830742"
-    width="600"
-    height="120"
+    src="https://render.gitanimals.org/farms/ce-dric"
+    width="300"
   />
 </a>
