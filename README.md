@@ -8,6 +8,7 @@
 ### Merged Pull Requests
 
 <!--START_SECTION:merged-prs-->
+- 🎉 [Add OBB-PBD (Remote Sensing 2026) to Remote Sensing Visual Grounding](https://github.com/linhuixiao/Awesome-Visual-Grounding/pull/18) — `linhuixiao/Awesome-Visual-Grounding`
 - 🎉 [fix(desktop): memoize statusbar render-contributions so state survives re-renders](https://github.com/NousResearch/hermes-agent/pull/92137) — `NousResearch/hermes-agent`
 - 🎉 [Add configurable Discord status reactions](https://github.com/Crokily/pi-discord-gateway/pull/20) — `Crokily/pi-discord-gateway`
 - 🎉 [fix: resolve UnicodeEncodeError on Windows with non-UTF-8 consoles](https://github.com/Q00/ouroboros/pull/1819) — `Q00/ouroboros`
